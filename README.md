@@ -1,5 +1,5 @@
 # use
-Things I'm using
+Things I'm using. Much more boring than who I [was](https://gist.github.com/huytd/f9a9c3edaa0a696d44d13ba134520094) [a](https://gist.github.com/huytd/acb5624e91fc96bd073bb423735582c1) [few years](https://gist.github.com/huytd/5e7d5d4fc54da2f0ab32e0270d2cb86d) [back](https://github.com/huytd/emacs-config). 
 
 ## Editor
 
@@ -18,15 +18,16 @@ Things I'm using
   - Parcel: for personal projects
   - Cargo: 🦀
   
-# Browser
+## Browser
 
 - Chrome: at work
 - Firefox: for all personal stuff
   - Addons:
     - Ublock Origin
 
-# Utilities
+## Utilities
 
+- Hammerspoon: for window movement, and [vimouse](https://github.com/tweekmonster/hammerspoon-vimouse/tree/master)
 - Homerow ([link](https://homerow.app))
 - OctoCmd ([link](https://github.com/huytd/OctoCmd))
 - Grammarly
