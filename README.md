@@ -4,9 +4,28 @@ Things I'm using. Much more boring than who I [was](https://gist.github.com/huyt
 ## Editor
 
 - IntelliJ IDEA: at work, for all kind of Java and NodeJS stuff.
-- Neovim: for quick editing, formatting logs,...
-- VSCode: at home, for frontend stuff.
+- Neovim ([config](https://github.com/huytd/vim-config/tree/working)): for quick editing, formatting logs,...
+- VSCode: at home, for frontend stuff
 - Font: SF Mono
+- Code Assistant
+  - Github Copilot: at work, paid by the company so I had to use it :P
+  - Codeium ([link](https://codeium.com/)): same as Copilot (actually it's better), for personal use
+  - aichat ([link](https://github.com/sigoden/aichat)): chatGPT alternative on terminal
+    <details>
+    <summary>Raycast script to open <code>aichat</code> anywhere (I use <kbd>⌥</kbd> <kbd>⌥</kbd> key)</summary>
+    <pre><code>#!/bin/bash
+    # Required parameters:
+    # @raycast.schemaVersion 1
+    # @raycast.title AI Chat
+    # @raycast.mode silent
+    # Optional parameters:
+    # @raycast.icon 🤖
+    # Documentation:
+    # @raycast.description Chat with AI
+    # @raycast.author Huy Tran
+    /opt/homebrew/bin/kitty "$HOME/.cargo/bin/aichat"
+    </code></pre>
+    </details>
 
 ## CLI
 
@@ -24,9 +43,13 @@ Things I'm using. Much more boring than who I [was](https://gist.github.com/huyt
 - Firefox: for all personal stuff
   - Addons:
     - Ublock Origin
+    - Tridactyl ([link](https://github.com/tridactyl/tridactyl))
+    - Dark Reader
+- Arc ([link](https://arc.net/)): I'm slowly moving to Arc but kept going back to FF
 
 ## Utilities
 
+- MonitorControl ([link](https://github.com/MonitorControl/MonitorControl))
 - Hammerspoon: for window movement, and [vimouse](https://github.com/tweekmonster/hammerspoon-vimouse/tree/master)
 - Homerow ([link](https://homerow.app))
 - OctoCmd ([link](https://github.com/huytd/OctoCmd))
