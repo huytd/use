@@ -37,4 +37,9 @@ Things I'm using. Much more boring than who I [was](https://gist.github.com/huyt
 - GõKey ([link](https://github.com/huytd/goxkey))
 - Obsidian.md: for blogging and personal notes
 - Notion: mostly for project management
-  
+
+## Hardware
+
+- 32" LG 32UN550-W Monitor 
+- Perixx 335 ERGO Mechanical Keyboard ([link](https://perixx.com/collections/keyboards/products/px-ergonomic-mechanical-keyboard?variant=43501541916931))
+- Logitech G502 Hero Mouse ([link](https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.910-005469.html))
