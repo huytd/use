@@ -66,3 +66,10 @@ Things I'm using. Much more boring than who I [was](https://gist.github.com/huyt
 - 32" LG 32UN550-W Monitor 
 - Perixx 335 ERGO Mechanical Keyboard ([link](https://perixx.com/collections/keyboards/products/px-ergonomic-mechanical-keyboard?variant=43501541916931))
 - Logitech G502 Hero Mouse ([link](https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.910-005469.html))
+- Steelcase Leap Chair ([link](https://store.steelcase.com/seating/office-chairs/leap)): got it free because the old company bankrupted, didn't know it cost that much, should have taken more chair (jk)
+
+<details>
+<summary>Old stuff</summary>
+- HHKB Pro Classic (sold)
+- Logitech MX ERGO (collecting dust, broken Lmouse button switch)
+</details>
