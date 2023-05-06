@@ -70,6 +70,9 @@ Things I'm using. Much more boring than who I [was](https://gist.github.com/huyt
 
 <details>
 <summary>Old stuff</summary>
-- HHKB Pro Classic (sold)
-- Logitech MX ERGO (collecting dust, broken Lmouse button switch)
+<ul>
+<li>Vortex POK3R (sold)</li>
+<li>HHKB Pro Classic (sold)</li>
+<li>Logitech MX ERGO (collecting dust, broken Lmouse button switch)</li>
+</ul>
 </details>
